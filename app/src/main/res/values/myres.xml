@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hintTextWinner">Победитель: </string>
+    <string name="playerOne">Победил Игрок 1.</string>
+    <string name="playerTwo">Победил Игрок 2.</string>
+    <string name="restartGame">Перезапуск</string>
+    <string name="tvScore">Счет</string>
+    <string name="tvPlayer">Игрок: </string>
+</resources>
